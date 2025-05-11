@@ -124,7 +124,6 @@ Edit
 - **Usage**: It explains how to use the project with both voice and text inputs.
 - **Future Improvements**: Mention of features you might want to consider implementing later.
 
-You can copy and paste this into a `README.md` file in your repository! If you have any additional custom features or information to add, feel free to edit it accordingly.
 
 
 
